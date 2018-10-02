@@ -1,25 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Raudhatul Ilmi Monthly Talk: Controlling Children Behaviour"
 date:   2018-09-23 15:13:07 +0900
-categories: jekyll update
+categories: events, skype
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![Alt text](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/41601921_1802124276571151_7672614836970192896_n.png?_nc_cat=101&oh=5018cbc7393e5f1e5128f13f35fbc929&oe=5C628400)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Tantrums are not rare among toddlers and preschoolers. Perhaps, that’s the way children deal with difficult feelings.
 
-Jekyll also offers powerful support for code snippets:
+Feeling helpless when your child "loses it", dear momma? It’s okay, we’re in this together!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Join us and learn more from Mrs Habibah on what to do when dealing with these situations.
+For those who are interested you may register in the link below
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[Registeration Form](https://goo.gl/forms/J0siyXBorCkm8glm2)
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+`#raudhatulilmi`
+`#dealingwithchildren`
+`#empoweringwomen`
