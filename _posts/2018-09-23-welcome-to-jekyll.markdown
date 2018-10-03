@@ -13,7 +13,7 @@ Feeling helpless when your child "loses it", dear momma? It’s okay, we’re in
 Join us and learn more from Mrs Habibah on what to do when dealing with these situations.
 For those who are interested you may register in the link below
 
-[Registeration Form](https://goo.gl/forms/J0siyXBorCkm8glm2)
+[Registration Form](https://goo.gl/forms/J0siyXBorCkm8glm2)
 
 
 `#raudhatulilmi`
